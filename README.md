@@ -1,6 +1,8 @@
 # AngularProject22
 
 Projeto de estudo para aprender sobre Angular.
+Gerenciando o ambiente de desenvolvimento do projeto no Github, tentando simular o ambiente de uma equipe, entendendo a necessidade de desenhar um fluxo de trabalho produtivo, seguro e claro.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
 ## Development server
