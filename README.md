@@ -1,5 +1,6 @@
 # AngularProject22
 
+Projeto de estudo para aprender sobre Angular.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.3.
 
 ## Development server
