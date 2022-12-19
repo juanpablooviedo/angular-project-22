@@ -5,6 +5,11 @@
 //
 // basicamente typescript é 90% javascript com melhoras e novas funcionalidades mais modernas
 //
+var n1 = 6;
+var n2 = 'seis';
+var n3 = true;
+var n4 = 12 + 'doce';
+//
 var minhaVar = 'minha variavel';
 // ts > js
 function minhaFunc(x, y) {
@@ -20,3 +25,12 @@ numeros.map(function (valor) {
 });
 // ts / ecmascript
 numeros.map(function (valor) { return valor * 2; });
+//
+var Matematica = /** @class */ (function () {
+    function Matematica() {
+    }
+    Matematica.prototype.soma = function (x, y) {
+        return x + y;
+    };
+    return Matematica;
+}());
